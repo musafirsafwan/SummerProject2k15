@@ -1,0 +1,28 @@
+clone (install) github repository on pc
+>> git clone url
+
+difference between pc files and github files
+>> git status
+
+add files to upload
+>> git add filename
+add all files to upload
+>> git add .
+
+lock upload
+>> git commit -m "message about changes made"
+
+upload
+>> git push
+
+download
+>> git pull
+
+see all git commands
+>> git
+
+multi line message window
+>> git commit
+
+escape out of a multi line message window after entering the message
+>> Esc :wq
